@@ -1,0 +1,61 @@
+Date,Region,Product,Category,Quantity,Unit_Price,Unit_Cost,Revenue,Cost,Profit
+2026-01-03,North,Laptop,Electronics,2,42000,35000,84000,70000,14000
+2026-01-05,South,Notebook Pack,Stationery,15,120,65,1800,975,825
+2026-01-07,East,Office Chair,Furniture,3,6500,4700,19500,14100,5400
+2026-01-10,West,Headphones,Electronics,5,1800,1100,9000,5500,3500
+2026-01-13,North,Desk,Furniture,2,8500,6200,17000,12400,4600
+2026-01-16,South,Pen Set,Stationery,20,90,35,1800,700,1100
+2026-01-19,East,Monitor,Electronics,4,12500,9300,50000,37200,12800
+2026-01-22,West,Bookshelf,Furniture,1,7200,5200,7200,5200,2000
+2026-01-25,North,Printer Paper,Stationery,12,350,220,4200,2640,1560
+2026-01-28,South,Smartphone,Electronics,3,24000,19000,72000,57000,15000
+2026-02-02,East,Laptop,Electronics,1,42000,35000,42000,35000,7000
+2026-02-04,West,Office Chair,Furniture,4,6500,4700,26000,18800,7200
+2026-02-07,North,Notebook Pack,Stationery,18,120,65,2160,1170,990
+2026-02-10,South,Headphones,Electronics,7,1800,1100,12600,7700,4900
+2026-02-13,East,Desk,Furniture,3,8500,6200,25500,18600,6900
+2026-02-16,West,Pen Set,Stationery,25,90,35,2250,875,1375
+2026-02-19,North,Monitor,Electronics,2,12500,9300,25000,18600,6400
+2026-02-22,South,Bookshelf,Furniture,2,7200,5200,14400,10400,4000
+2026-02-25,East,Printer Paper,Stationery,10,350,220,3500,2200,1300
+2026-02-27,West,Smartphone,Electronics,2,24000,19000,48000,38000,10000
+2026-03-02,North,Laptop,Electronics,3,42000,35000,126000,105000,21000
+2026-03-05,South,Office Chair,Furniture,2,6500,4700,13000,9400,3600
+2026-03-08,East,Notebook Pack,Stationery,22,120,65,2640,1430,1210
+2026-03-11,West,Headphones,Electronics,6,1800,1100,10800,6600,4200
+2026-03-14,North,Desk,Furniture,1,8500,6200,8500,6200,2300
+2026-03-17,South,Pen Set,Stationery,30,90,35,2700,1050,1650
+2026-03-20,East,Monitor,Electronics,3,12500,9300,37500,27900,9600
+2026-03-23,West,Bookshelf,Furniture,2,7200,5200,14400,10400,4000
+2026-03-26,North,Printer Paper,Stationery,14,350,220,4900,3080,1820
+2026-03-29,South,Smartphone,Electronics,4,24000,19000,96000,76000,20000
+2026-04-01,East,Laptop,Electronics,2,42000,35000,84000,70000,14000
+2026-04-04,West,Office Chair,Furniture,5,6500,4700,32500,23500,9000
+2026-04-07,North,Notebook Pack,Stationery,16,120,65,1920,1040,880
+2026-04-10,South,Headphones,Electronics,8,1800,1100,14400,8800,5600
+2026-04-13,East,Desk,Furniture,4,8500,6200,34000,24800,9200
+2026-04-16,West,Pen Set,Stationery,24,90,35,2160,840,1320
+2026-04-19,North,Monitor,Electronics,3,12500,9300,37500,27900,9600
+2026-04-22,South,Bookshelf,Furniture,1,7200,5200,7200,5200,2000
+2026-04-25,East,Printer Paper,Stationery,15,350,220,5250,3300,1950
+2026-04-28,West,Smartphone,Electronics,3,24000,19000,72000,57000,15000
+2026-05-02,North,Laptop,Electronics,2,42000,35000,84000,70000,14000
+2026-05-05,South,Office Chair,Furniture,3,6500,4700,19500,14100,5400
+2026-05-08,East,Notebook Pack,Stationery,20,120,65,2400,1300,1100
+2026-05-11,West,Headphones,Electronics,9,1800,1100,16200,9900,6300
+2026-05-14,North,Desk,Furniture,3,8500,6200,25500,18600,6900
+2026-05-17,South,Pen Set,Stationery,28,90,35,2520,980,1540
+2026-05-20,East,Monitor,Electronics,4,12500,9300,50000,37200,12800
+2026-05-23,West,Bookshelf,Furniture,2,7200,5200,14400,10400,4000
+2026-05-26,North,Printer Paper,Stationery,11,350,220,3850,2420,1430
+2026-05-29,South,Smartphone,Electronics,2,24000,19000,48000,38000,10000
+2026-06-02,East,Laptop,Electronics,3,42000,35000,126000,105000,21000
+2026-06-05,West,Office Chair,Furniture,2,6500,4700,13000,9400,3600
+2026-06-08,North,Notebook Pack,Stationery,25,120,65,3000,1625,1375
+2026-06-11,South,Headphones,Electronics,5,1800,1100,9000,5500,3500
+2026-06-14,East,Desk,Furniture,2,8500,6200,17000,12400,4600
+2026-06-17,West,Pen Set,Stationery,32,90,35,2880,1120,1760
+2026-06-20,North,Monitor,Electronics,2,12500,9300,25000,18600,6400
+2026-06-23,South,Bookshelf,Furniture,3,7200,5200,21600,15600,6000
+2026-06-26,East,Printer Paper,Stationery,13,350,220,4550,2860,1690
+2026-06-29,West,Smartphone,Electronics,4,24000,19000,96000,76000,20000
